@@ -1,27 +1,25 @@
-# React + TypeScript + Vite
+# ParcialAPIRestConPaginacion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+<p align="center">
+    <img
+    src="https://media.tenor.com/bKMOJdUzX_gAAAAC/dog-finlin-dog.gif"
+    alt="fullstackdeveloper"
+    width="300px"
+    height="300px"
+    align="center"
+/>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Autor:
+Matías Alejandro Mesa
+Legajo 47841
+Comisión 3K9 2023 - UTN FRM
 
-## Expanding the ESLint configuration
+# Actividades:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Estudiar la lista de videos y reproducir el mismo ejercicio.
 
-- Configure the top-level `parserOptions` property like this:
+Además se debe subir el sitio a Vercel para probar la Api, como se muestra en el video.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Se debe entregar el link a git hub y en el readme las indicaciones del link de Vercel
